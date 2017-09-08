@@ -1,0 +1,14 @@
+body{
+	background-image: url("img/Background.jpg");
+	background-size: 100%;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.jumbotron {
+   background: rgba(238, 238, 238, 0) !important;
+   text-align: : center;
+}
+
+.titulo{
+	font-family: 'Oleo Script Swash Caps', cursive;
+}
